@@ -1,5 +1,3 @@
-[![@randymbot](/img/logo.png?raw=true)](https://t.me/randymbot)
-
 # [@randymbot](https://t.me/randymbot) Telegram bot code
 This is the code for the raffle Telegram bot I've built. Enjoy and feel free to reuse!
 
